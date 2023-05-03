@@ -1,0 +1,41 @@
+GO Rules for Beginners
+
+This was made from go lessons from Yilun Yang with LLoyd Eric Cotsen. Any errors or omissions are solely mine.
+
+Caveat: These rules are most useful in the begging and and early middle game.
+
+Fundamental Rule of Go: Do you have a weak stone or stones? If yes, then help them otherwise move in a big area.
+
+Tactics
+
+Atari: Never atari unless you have a reason. If you can capture a stone or stones directly then do so. Directly means that you (not Alpha Go) can see how to capture something right away. If this is part of a joseki or forcing sequence that you should play now then do so. Otehrwise wait.
+
+Push-Cut: Do not push if you are not going to cut right away.
+
+Paying Money - Do not pay money unless you have to. (maybe not beginner?)
+
+Avoid making and empty triangle. (and maybe eleohant eye?)
+
+Ponuki: Never give your opponent a ponuki.
+
+Cross Cut
+Can you capture a stone directly? Directly means that you (not not Alpha Go) can see how to capture something right away.
+
+
+Strategy
+
+Confused - If you can not figure out what to do locally, consider tenuki (play elsewhere). If you are losing baddly in some area, consider tenuki.
+
+Opponet makes a bad move: You almost always should punish this immediately, otherwise it may turn into a good move!
+
+Tenuki
+  1-1 - You may tenuki
+  2-1 - Do not tenuki
+  3-1 - You probably should tenuki (wait).
+  4-1 (or more) - You must tenuki (wait).
+
+Corner Joseki (for both sides)
+    1. Get out.
+    2. Take corner.
+    3. Complete the shape.
+
