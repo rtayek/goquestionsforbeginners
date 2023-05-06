@@ -1,3 +1,5 @@
+This is a very rough draft. Don't believe any of this for a while.
+
 GO Rules for Beginners
 
 This was made from go lessons from Yilun Yang with LLoyd Eric Cotsen. Any errors or omissions are solely mine.
@@ -24,12 +26,12 @@ Can you capture a stone directly? Directly means that you (not not Alpha Go) can
 
 Strategy
 
-Confused - If you can not figure out what to do locally, consider tenuki (play elsewhere). If you are losing baddly in some area, consider tenuki.
+Confused - If you can not figure out what to do locally, consider tenuki (play elsewhere). If you are losing baddly in some area, consider tenuki (wait).
 
 Opponet makes a bad move: You almost always should punish this immediately, otherwise it may turn into a good move!
 
-Tenuki
-  1-1 - You may tenuki
+Tenuki (in a corner)
+  1-1 - You may tenuki (unless it is an unusual approach).
   2-1 - Do not tenuki
   3-1 - You probably should tenuki (wait).
   4-1 (or more) - You must tenuki (wait).
