@@ -10,15 +10,21 @@ Fundamental Rule of Go: Do you have a weak stone or stones? If yes, then help th
 
 Tactics
 
+If a group of stones has lost more thane one-half of it's liberties, take a second look.
+
 Atari: Never atari unless you have a reason. If you can capture a stone or stones directly then do so. Directly means that you (not Alpha Go) can see how to capture something right away. If this is part of a joseki or forcing sequence that you should play now then do so. Otehrwise wait.
 
 Push-Cut: Do not push if you are not going to cut right away.
 
 Paying Money - Do not pay money unless you have to. (maybe not beginner?)
 
-Avoid making and empty triangle. (and maybe eleohant eye?)
+Avoid making and empty triangle. (and maybe an elephant eye?)
 
 Ponuki: Never give your opponent a ponuki.
+
+Single stone touches a single stone. Usually hane. If you are weaker, then hane. If you are stronget extend.
+
+Group touch group is just the opposite of the single stone case. If you are weaker, then extebd. This will get you more liberties. If you are stronger, the hane. This will give you more forcing moves. 
 
 Cross Cut
 Can you capture a stone directly? Directly means that you (not not Alpha Go) can see how to capture something right away.
@@ -32,7 +38,7 @@ Opponet makes a bad move: You almost always should punish this immediately, othe
 
 Tenuki (in a corner)
   1-1 - You may tenuki (unless it is an unusual approach).
-  2-1 - Do not tenuki
+  2-1 - Usually do not tenuki
   3-1 - You probably should tenuki (wait).
   4-1 (or more) - You must tenuki (wait).
 
